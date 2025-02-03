@@ -4,16 +4,15 @@
 This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. It allows two players to play the classic game in the browser with an interactive UI.
 <br>
 </br>
-✨ Features
-✔️ Two-player mode
-<br></br>
-✔️ Interactive UI with smooth animations
-✔️ Win detection and draw condition handling
-✔️ Reset/Restart functionality
-✔️ Responsive design
+✨ Features<br></br>
+✔️ Two-player mode<br></br>
+✔️ Interactive UI with smooth animations<br></br>
+✔️ Win detection and draw condition handling<br></br>
+✔️ Reset/Restart functionality<br></br>
+✔️ Responsive design<br></br>
 <br>
 </br>
-🛠 Tech Stack
-HTML – Structure of the game board
-CSS – Styling and animations
-JavaScript – Game logic and interactions
+🛠 Tech Stack<br></br>
+HTML – Structure of the game board<br></br>
+CSS – Styling and animations<br></br>
+JavaScript – Game logic and interactions<br></br>
